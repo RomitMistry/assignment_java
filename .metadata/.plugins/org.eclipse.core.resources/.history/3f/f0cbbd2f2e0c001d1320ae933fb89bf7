@@ -1,0 +1,14 @@
+package rightangleincreased1;
+
+public class triangle {
+public static void main(String[] args) {
+	int i,j;
+	
+	System.out.println("this is a pyramid");
+	
+	for(i=0;i<=4;i++)
+	{
+		for(j=1;j<=i;i++)
+	}
+}
+}

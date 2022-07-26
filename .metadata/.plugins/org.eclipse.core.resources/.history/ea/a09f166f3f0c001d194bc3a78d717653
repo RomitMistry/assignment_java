@@ -1,0 +1,16 @@
+
+public class values {
+	public static void main(String[] args) {
+		
+			System.out.print("Enter the character : ");
+			Scanner obj=new Scanner(System.in);
+			char a=obj.next().charAt(0);
+			
+			int i=a;
+			System.out.println("ASCII VALUE IS : "+i);
+			
+			
+		
+	}
+
+}
